@@ -4,4 +4,5 @@ def reverse_string(string)
   string.size.times { reversed << split_string.pop}
   reversed.join
 end
-puts reverse_string("hello")
+puts reverse_string("madam")
+
